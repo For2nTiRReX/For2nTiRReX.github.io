@@ -508,7 +508,7 @@ var MapModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"top-line-wrapper\">\n  <div class=\"logo\">\n    <a class=\"nav-link\" routerLink=\"/\">\n      <img src=\"../../../assets/design_Limehome Logo.svg\" alt=\"\">\n    </a>\n  </div>\n  <div class=\"menu-trigger-button\">\n    <img src=\"../../../assets/burger_icon.svg\" alt=\"\">\n  </div>\n  <nav class=\"main-menu\">\n    <ul>\n      <li><a href=\"#\">some menu element</a></li>\n      <li><a href=\"#\">some menu element</a></li>\n      <li><a href=\"#\">some menu element</a></li>\n      <li><a href=\"#\">some menu element</a></li>\n    </ul>\n  </nav>\n</div>"
+module.exports = "<div class=\"top-line-wrapper\">\n  <div class=\"logo\">\n    <a class=\"nav-link\" routerLink=\"/\">\n      <img src=\"../../../limehome-challenge/assets/design_Limehome Logo.svg\" alt=\"\">\n    </a>\n  </div>\n  <div class=\"menu-trigger-button\">\n    <img src=\"../../../limehome-challenge/assets/burger_icon.svg\" alt=\"\">\n  </div>\n  <nav class=\"main-menu\">\n    <ul>\n      <li><a href=\"#\">some menu element</a></li>\n      <li><a href=\"#\">some menu element</a></li>\n      <li><a href=\"#\">some menu element</a></li>\n      <li><a href=\"#\">some menu element</a></li>\n    </ul>\n  </nav>\n</div>"
 
 /***/ }),
 
@@ -583,7 +583,7 @@ var PlacesService = /** @class */ (function () {
                 position: [52.52257, 13.38666],
                 description: "Designs may vary",
                 price: 89,
-                img: "../assets/example-image.jpg"
+                img: "../limehome-challenge/assets/example-image.jpg"
             },
             {
                 id: "276u33db-7af315e7309e47b6956b7cc0e0fb1c44",
@@ -592,7 +592,7 @@ var PlacesService = /** @class */ (function () {
                 position: [52.52372, 13.38363],
                 description: "Designs may vary",
                 price: 89,
-                img: "../assets/example-image.jpg"
+                img: "../limehome-challenge/assets/example-image.jpg"
             },
             {
                 id: "276u33db-af02fef86a034d408577acd77906983e",
@@ -601,7 +601,7 @@ var PlacesService = /** @class */ (function () {
                 position: [52.522991, 13.388084],
                 description: "Designs may vary",
                 price: 89,
-                img: "../assets/example-image.jpg"
+                img: "../limehome-challenge/assets/example-image.jpg"
             }
         ];
     }
